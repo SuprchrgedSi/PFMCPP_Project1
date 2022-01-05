@@ -52,84 +52,86 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: cat
+//  action 1: the cat meows
+cat.meows();
+//  action 2:the cat cleans itself
+cat.cleanBody();
+//  action 3: the cat purrs
+cat.purr();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: truck
+//  action 1: The truck make sound through the horn
+truck.honkHorn();
+//  action 2: the truck applies engine power to the wheels
+truck.applyPowerToWheels();
+//  action 3:the truck changes the gear ration in the automatic transimssion
+truck.changeGear();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:Basketball Player
+//  action 1: the player shoots a jump shot
+bballPlayer.shootsJumper();
+//  action 2:The player attempts to block a shot
+bballPlayer.blockShot();
+//  action 3:  The player celebrates
+bballPlayer.celebrates();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Baby
+//  action 1: The baby eats
+baby.eat();
+//  action 2: The baby sleeps
+baby.sleep();
+//  action 3: the baby poops
+baby.poop();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Cell phone
+//  action 1: Cell phone makes call
+cellPhone.call();
+//  action 2: Cell phone display text message
+cellPhone.displayTextMessage();
+//  action 3: Cell phone unlocks screen
+cellPhone.unlockScreen();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Keyboard
+//  action 1: Keyboard transmits character
+keyboard.transmitCharacter();
+//  action 2: Keyboard toggles Caps Lock indicator
+keyboard.toggleCapsLockLED();
+//  action 3: Keyboard connects to PC
+keyboard.connectToPC();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:Vacuum Cleanner
+//  action 1: Vacuum cleaner engages suction motor
+vacuumCleaner.engageMotor();
+//  action 2: Vacuum Cleaner releases hose
+vacuumCleaner.releaseHose();
+//  action 3: Vacuum cleaner engages spining brush
+vacuumCleaner.engageBrush();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Transmitter
+//  action 1: Amplifier enables output
+wirelessTransmitter.sendPacket();
+//  action 2: amplifier modifies volume
+wirelessTransmitter.changeFrequencyBand();
+//  action 3: amplifier adjusts treble control gain
+wirelessTrasmitter.sendBroadcastMessage();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Television
+//  action 1: Televsion changes channel
+tv.changeChannel();
+//  action 2: TV adjusts contrast
+tv.modifyContrast();
+//  action 3: TV change input source
+tv.changeInputSource();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Oven
+//  action 1: Oven adjusts temperature
+oven.adjustTemperature();
+//  action 2: Oven enables broiler
+oven.enableBroiler();
+//  action 3: Oven starts timer
+oven.startTimer();
 
 
 
