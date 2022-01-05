@@ -109,13 +109,13 @@ vacuumCleaner.releaseHose();
 vacuumCleaner.engageBrush();
 
 //  8)
-//  Noun: Amplifier
+//  Noun: Transmitter
 //  action 1: Amplifier enables output
-amplifier.enableOutput();
+wirelessTransmitter.sendPacket();
 //  action 2: amplifier modifies volume
-amplifier.modifyVolume();
+wirelessTransmitter.changeFrequencyBand();
 //  action 3: amplifier adjusts treble control gain
-amplifier.modifyTrebleGain();
+wirelessTrasmitter.sendBroadcastMessage();
 //  9)
 //  Noun: Television
 //  action 1: Televsion changes channel
